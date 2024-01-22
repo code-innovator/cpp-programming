@@ -6,9 +6,9 @@ class fibonacci
 	private:
 	long int f0,f1,fib;
 	public:
-	fibonacci (void);
-	void process (void);
-	void display (void);
+	fibonacci(void);
+	void process(void);
+	void display(void);
 };
 fibonacci::fibonacci(void)
 {
